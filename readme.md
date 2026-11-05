@@ -3,8 +3,6 @@
 Dataset release for WACV submission.
 Link for original HUMS dataset: https://github.com/ElifErarslan1/HUMS-X-ray-Dataset
 
-Please Note: 
-
 ## Folder Structure
 
 ```
